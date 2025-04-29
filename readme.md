@@ -39,4 +39,4 @@ REFRESH_TOKEN_SECRET=your_secret_key
 - User receives Access token and Refresh token when logging into the system
 
 ## Deployement
-- Application is hosted and live on render.com
+- Application is hosted and live on render.com, [click here](https://moviehub-backend-4wuy.onrender.com)
