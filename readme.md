@@ -36,7 +36,7 @@ REFRESH_TOKEN_SECRET=your_secret_key
 ```
 
 ## Token Flow
-User receives Access token and Refresh token when logging into the system
+- User receives Access token and Refresh token when logging into the system
 
-# Deployement
+## Deployement
 - Application is hosted and live on render.com
